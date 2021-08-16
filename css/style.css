@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+ /* Make the image fully responsive */
+   /* Make the image fully responsive */
+  .carousel-inner img {
+    width: 100%;
+  }
+ .hello{
+ 	border: 2px solid transparent;
+ 	width: 50%;
+ 	height:500px;
+ }
